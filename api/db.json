@@ -21,6 +21,20 @@
       "lastName": "Navajas",
       "age": "50",
       "email": "pedronavajas@gmail.com"
+    },
+    {
+      "name": "Jose Juan",
+      "lastName": "Perez Perez",
+      "age": "50",
+      "email": "perezprer@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gareth Wolfe",
+      "lastname": "Woodward",
+      "email": "hyzuvin@mailinator.com",
+      "ps": "Pa$$w0rd!",
+      "id": 5
     }
   ],
   "books": [
@@ -31,7 +45,7 @@
       "id": 1
     },
     {
-      "name": "Book 2",
+      "name": "Book 10",
       "date": "01-02-2021",
       "total_pages": "50",
       "id": 10
@@ -59,6 +73,19 @@
       "date": "01-02-2021",
       "total_pages": "50",
       "id": 14
+    },
+    {
+      "name": "Book 2",
+      "date": "01-02-2021",
+      "total_pages": "50",
+      "id": 15
+    },
+    {
+      "name": "Lock",
+      "lastname": "trevor",
+      "email": "tru@true.com",
+      "ps": "bestpw",
+      "id": 16
     }
   ]
 }
